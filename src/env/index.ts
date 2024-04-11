@@ -3,6 +3,7 @@ import {z} from'zod'
 
 const schemaEnv = z.object({
   COOKIE_SECRET: z.string(),
+  DATABASE_URL: z.string(),
 })
 
 

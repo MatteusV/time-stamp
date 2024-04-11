@@ -1,5 +1,5 @@
 import { Prisma, UserTimeInterval } from '@prisma/client'
-import { UserTimeIntervalRepository } from '../user-time-interal-repository'
+import { UserTimeIntervalRepository } from '../user-time-interval-repository'
 import { randomUUID } from 'crypto'
 
 export class InMemoryUserTimeIntervalRepository

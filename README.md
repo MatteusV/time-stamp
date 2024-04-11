@@ -4,7 +4,7 @@
 - [x] deve ser possivel se cadastrar;
 - [x] deve ser possivel se autenticar;
 - [x] deve ser possivel obter o perfil de um usuário logado;
-- [] deve ser possivel definir os horários e o dia da semana que você aceita compromissos;
+- [] deve ser possivel definir os horários e os dias da semana que o usuário aceita compromissos;
 - [] deve ser possivel obter todos os horários marcados na agenda;
 - [] deve ser possivel obter o histórico de horários marcados na agendar;
 - [] deve ser possivel validar o horário marcado da agenda do usuário;
